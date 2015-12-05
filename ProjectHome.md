@@ -1,0 +1,1 @@
+Front-end old-style terminal interface, for web services like those provided by Google and Yahoo.
